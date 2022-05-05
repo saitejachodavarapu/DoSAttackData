@@ -1,5 +1,5 @@
 # DoSAttackData
-Data extracteed from DoS attacks using Cilium
+Data extracted from DoS attacks using Cilium
 
 
 Exported Cilium flows live here.
